@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95684557223",
+    "project_id": "calendar-clone-241a9",
+    "storage_bucket": "calendar-clone-241a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95684557223:android:babc3825f202ea9e9a1e82",
+        "android_client_info": {
+          "package_name": "com.lokusan.calendar_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGe1KvDvd1BkIZc9-hPaC8NV4zLlybxDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
